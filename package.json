@@ -1,0 +1,19 @@
+{
+  "name": "lenovo",
+  "version": "0.0.1",
+  "description": "Diseño front-end profesional",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jriera/front-end.git"
+  },
+  "author": "jriera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jriera/front-end/issues"
+  },
+  "homepage": "https://github.com/Jriera/front-end#readme"
+}
